@@ -111,4 +111,4 @@
 
 Тестирование:
 
- ![Демонстрация работы](https://github.com/Artem-swag/LAB2Csharp/blob/main/screenshot1.png?raw=true)
+ ![Демонстрация работы](https://github.com/Artem-swag/LAB2Csharp/blob/main/screenshot8.png?raw=true)
