@@ -73,7 +73,7 @@ namespace Lab_02
 
             for (int i = 0; i < _waysCount; i++)
             {
-                result += $"{_ways[i].Destination.Name}:{_ways[i].Cost}; ";
+                result += $"{_ways[i]}; ";
             }
 
             return result;

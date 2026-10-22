@@ -22,5 +22,10 @@ namespace Lab_02
         {
             get { return _cost; }
         }
+
+        public override string ToString()
+        {
+            return $"{_destination.Name}:{_cost}";
+        }
     }
 }
